@@ -113,6 +113,6 @@ Thus the implementation of LRU page replacement is successfully executed.
 
 
 
-RESULT:
+
 
 
